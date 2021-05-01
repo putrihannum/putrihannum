@@ -11,8 +11,8 @@ img {
 }
 
 table, td {
-	border: 3px black;
-	width: 300px;
+	border: 3px black solid;
+	width: 800px;
 	margin: auto;
 	color: white;
 }
