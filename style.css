@@ -2,8 +2,7 @@ body{
 	background-image: https://img.wallpaperseveryday.com/picd/92596/450x340.jpg
 }
 
-h2 {
-	font-family: "Times New Roman", Times, serif;	
+h2 {	
 	text-align: center;
 	color: white;
 }
@@ -15,13 +14,12 @@ img {
 	width: 35%;
 }
 
-table {
+table, td {
 	border: 3px solid black;
 	align-items: center;
+	color: white;
 }
 
-td {
-	color: white;
 }
 
 p {
