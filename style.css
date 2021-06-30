@@ -1,22 +1,32 @@
-h2 {	
-	text-align: center;
-	color: white;
+.jumbotron {
+  padding-top: 6rem;
+  background-color: black;
+  color: white;
 }
 
-img {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	width: 300px;
+.table,
+td {
+  background-color: black;
+  color: #000;
 }
 
-table, td {
-	border: 3px black solid;
-	width: 800px;
-	margin: auto;
-	color: white;
+#about {
+  color: black;
 }
 
-p {
-	color: white;
+#story {
+  background-color: black;
+}
+
+#gallery,
+.row {
+  color: black;
+}
+
+section {
+  padding-top: 4rem;
+}
+
+footer {
+  background-color: black;
 }
